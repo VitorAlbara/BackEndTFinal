@@ -1,3 +1,6 @@
+package com.app.pedidos.controllers;
+
+import com.app.pedidos.models.Cliente;
 import com.app.pedidos.services.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

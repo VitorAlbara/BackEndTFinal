@@ -1,5 +1,7 @@
 package com.app.pedidos.services;
 
+import com.app.pedidos.models.Cliente;
+import com.app.pedidos.models.Pedido;
 import com.app.pedidos.repositories.ClienteRepository;
 import com.app.pedidos.repositories.PedidoRepository;
 import org.springframework.beans.factory.annotation.Autowired;

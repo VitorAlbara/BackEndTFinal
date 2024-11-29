@@ -1,5 +1,6 @@
 package com.app.pedidos.controllers;
 
+import com.app.pedidos.models.Pedido;
 import com.app.pedidos.services.PedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
